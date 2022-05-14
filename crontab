@@ -1,0 +1,1 @@
+*/5 * * * * /usr/bin/bash /home/paul/personal/earthquake-data/get-eq-data.bash
