@@ -1,0 +1,7 @@
+- [x] bash: get data as CSV
+- [x] python3: read, hash, validate, write data
+- [x] bash: add python3 script after getting data
+- [x] cron: job to fire bash script every 5 minutes
+- [] start kafka server
+- [] create kafka topic
+- [] create kafka producer to dump exactly-once geo data into topic
