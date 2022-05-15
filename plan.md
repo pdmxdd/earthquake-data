@@ -52,5 +52,3 @@ Connect the Kafka Producer to the Kafka topic (in the secondary application)
 After massaging the data source to act like a data stream, and then adding it to a Kafka topic, I'd like to play with a Kafka Consumer --> but I'm not sure what to do yet. Simply printing out each new event is probably fine to start with.
 
 But let's figure out how to crawl before we talk about running.
-
-## 
