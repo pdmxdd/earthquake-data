@@ -4,4 +4,6 @@
 - [x] cron: job to fire bash script every 5 minutes
 - [x] start kafka server
 - [x] create kafka topic
+- [x] kafka producer to dump anything
+- [] kafka producer to dump geoEvent
 - [] create kafka producer to dump exactly-once geo data into topic
